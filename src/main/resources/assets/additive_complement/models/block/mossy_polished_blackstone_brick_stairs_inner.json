@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "additive_complement:block/mossy_polished_blackstone_bricks",
+    "side": "additive_complement:block/mossy_polished_blackstone_bricks",
+    "top": "additive_complement:block/mossy_polished_blackstone_bricks"
+  }
+}

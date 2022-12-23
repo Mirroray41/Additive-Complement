@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "additive_complement:block/mossy_polished_blackstone_bricks"
+  }
+}

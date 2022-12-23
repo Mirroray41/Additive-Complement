@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "additive_complement:block/mossy_deepslate_bricks"
+    }
+  }
+}
