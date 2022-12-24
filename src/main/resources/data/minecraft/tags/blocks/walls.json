@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "additive_complement:cracked_stone_brick_wall",
+    "additive_complement:cracked_polished_blackstone_brick_wall",
+    "additive_complement:cracked_deepslate_brick_wall",
+    "additive_complement:mossy_polished_blackstone_brick_wall",
+    "additive_complement:mossy_deepslate_brick_wall",
+    "additive_complement:stone_wall"
+  ]
+}

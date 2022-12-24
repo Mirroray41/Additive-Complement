@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "up": "additive_complement:block/mossy_blackstone_top",
+    "down": "additive_complement:block/mossy_blackstone_top",
+    "north": "additive_complement:block/mossy_blackstone",
+    "south": "additive_complement:block/mossy_blackstone",
+    "west": "additive_complement:block/mossy_blackstone",
+    "east": "additive_complement:block/mossy_blackstone"
+  }
+}

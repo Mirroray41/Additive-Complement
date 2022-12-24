@@ -11,9 +11,12 @@
   "block.additive_complement.mossy_deepslate_brick_slab": "Mossy Deepslate Brick Slab",
   "block.additive_complement.cracked_deepslate_brick_slab": "Cracked Deepslate Brick Slab",
   "block.additive_complement.cracked_stone_brick_slab": "Cracked Stone Brick Slab",
-  "block.additive_complement.cracked_polished_blackstone_brick_wall": "Cracked Polished Blackstone Brick Slab",
-  "block.additive_complement.mossy_polished_blackstone_brick_wall": "Mossy Polished Blackstone Brick Slab",
-  "block.additive_complement.mossy_deepslate_brick_wall": "Mossy Deepslate Brick Slab",
-  "block.additive_complement.cracked_deepslate_brick_wall": "Cracked Deepslate Brick Slab",
-  "block.additive_complement.cracked_stone_brick_wall": "Cracked Stone Brick Slab"
+  "block.additive_complement.cracked_polished_blackstone_brick_wall": "Cracked Polished Blackstone Brick Wall",
+  "block.additive_complement.mossy_polished_blackstone_brick_wall": "Mossy Polished Blackstone Brick Wall",
+  "block.additive_complement.mossy_deepslate_brick_wall": "Mossy Deepslate Brick Wall",
+  "block.additive_complement.cracked_deepslate_brick_wall": "Cracked Deepslate Brick Wall",
+  "block.additive_complement.cracked_stone_brick_wall": "Cracked Stone Brick Wall",
+  "block.additive_complement.mossy_cobbled_deepslate": "Mossy Cobbled Deepslate",
+  "block.additive_complement.mossy_blackstone": "Mossy Blackstone",
+  "block.additive_complement.stone_wall": "Stone Wall"
 }
